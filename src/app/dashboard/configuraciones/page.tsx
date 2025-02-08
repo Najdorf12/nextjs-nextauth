@@ -1,6 +1,14 @@
 function SettingsPage() {
   return (
-    <div>SettingsPage</div>
-  )
+    <div>
+      <section>
+        <div>
+          <section>
+            <div></div>
+          </section>
+        </div>
+      </section>
+    </div>
+  );
 }
-export default SettingsPage
+export default SettingsPage;
